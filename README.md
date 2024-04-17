@@ -1,2 +1,2 @@
-# MX_firewall_policy_analyzer
+# MX Firewall Policy Analyzer
 Meraki MX Firewall Analyzer
